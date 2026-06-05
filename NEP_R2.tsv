@@ -1,0 +1,10 @@
+id	Sequence	Taxon	Consensus	NegCon2-2-16S_KXBC_Fwd_04--KXBC_Rev_20
+#q2:types	categorical	categorical	categorical	numeric
+659acf67888b332944c1d7fd081eaefa	Unassigned	1.0	708
+129037ee67db7c458c8621bbfe3a5e99		d__Bacteria;p__Bacillota_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__Romboutsia;s__Romboutsia ilealis	1.0	75
+c9690b48124da99d00f18a85506f872f	Unassigned	1.0	37
+045dd5291a880964ad599ece6908c5c4	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Mediterraneibacter;s__Mediterraneibacter sp900120155	1.0	26
+c23d58e3361b596840d62334410377c5	Unassigned	1.0	18
+0a274805ba523ae173268024184d89f6		d__Bacteria;p__Bacillota_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__Romboutsia;s__Romboutsia ilealis	1.0	103
+d97b845c8c18a275b7f3824469bcf039		d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__Alistipes dispar	1.0	96
+34fb4fb405ba082af68b0225408d35a6		d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Mediterraneibacter;s__Mediterraneibacter sp900120155	1.0	84

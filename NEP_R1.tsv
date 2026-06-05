@@ -1,0 +1,14 @@
+id	Sequence	Taxon	Consensus	NegCon2-1-16S_KXBC_Fwd_04--KXBC_Rev_19
+#q2:types	categorical	categorical	categorical	numeric
+c9690b48124da99d00f18a85506f872f	Unassigned	1.0	160
+062bd5957f16f327e3278d16ea8512de	Unassigned	1.0	104
+1c75b32eca9fd66fa1e559f5873347ca d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus gallinarum	1.0	107
+1eeddea02e0b267b1044a7056a452efc		d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus faecavium	1.0	163
+2b7c0f8beea7693e5d25b85b2e4c94f5		d__Bacteria;p__Bacillota_A;c__Clostridia;o__TANB77;f__CAG-508;g__Scatovivens;s__Scatovivens faecipullorum	1.0	107
+8c36b21927feac20ec729ed29b1dab1f		d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Limosilactobacillus;s__Limosilactobacillus vaginalis	1.0	126
+f926607473c54f14a0008639bbec7ece		d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Limosilactobacillus;s__Limosilactobacillus vaginalis	1.0	117
+6e6d47280d6c7b8f0c40ef2079e8e17e	Unassigned	1.0	111
+98800dab8375c239e7a743c00b1a38f3		d__Bacteria;p__Bacillota_A;c__Clostridia;o__TANB77;f__CAG-508;g__Scatovivens;s__Scatovivens faecipullorum	1.0	96
+d416f62e19edd1cc59d807861fa1b61e		Unassigned	1.0	90
+129037ee67db7c458c8621bbfe3a5e99		d__Bacteria;p__Bacillota_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__Romboutsia;s__Romboutsia ilealis	1.0	95
+7910047fba6e4c404db143e52acd0685	
